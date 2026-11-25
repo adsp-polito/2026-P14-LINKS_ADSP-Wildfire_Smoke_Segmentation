@@ -1,0 +1,12 @@
+# Copy this file to configs/paths.local.yaml (or set environment variables)
+# to point to your local datasets without modifying tracked notebooks/code.
+
+smokeviz:
+  root_dir: "./data/SmokeViz/sample_data"
+  data_dir: "./data/SmokeViz/sample_data/data"
+  coords_dir: "./data/SmokeViz/sample_data/coords"
+  metadata_path: "./data/SmokeViz/sample_data/subsample.pkl"
+
+eumetsat:
+  raw_dir: "./data/MTG_FCI/raw"
+  processed_dir: "./data/MTG_FCI/processed"
