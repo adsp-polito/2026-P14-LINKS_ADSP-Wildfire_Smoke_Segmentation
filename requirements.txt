@@ -1,0 +1,20 @@
+# Core data & scientific stack
+numpy>=1.26
+pandas>=2.1
+tifffile>=2024.0
+pyyaml>=6.0
+matplotlib>=3.8
+scikit-learn>=1.4
+tqdm>=4.66
+
+# Deep learning & segmentation
+torch>=2.2
+segmentation-models-pytorch>=0.3.3
+albumentations>=1.4
+opencv-python>=4.9
+pillow>=10.0
+
+# EUMETSAT / MTG-FCI data retrieval & processing (uncomment when setting up EUMETSAT)
+# eumdac>=2.2
+# satpy>=0.48
+# netCDF4>=1.6
