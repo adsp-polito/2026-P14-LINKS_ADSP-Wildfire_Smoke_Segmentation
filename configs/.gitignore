@@ -1,0 +1,20 @@
+# Local datasets
+datasets/
+sample_data/
+data/
+coords/
+subsample.pkl
+*.rar
+*.zip
+
+# Model outputs
+checkpoints/*.pth
+checkpoints/*.pt
+checkpoints/*.ckpt
+
+# Secrets
+.env
+kaggle.json
+
+# Jupyter
+.ipynb_checkpoints/
