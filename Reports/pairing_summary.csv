@@ -1,0 +1,4 @@
+split,images,masks,valid_pairs,missing_masks,extra_masks
+train,2193,2193,2193,0,0
+valid,207,207,207,0,0
+test,123,123,123,0,0

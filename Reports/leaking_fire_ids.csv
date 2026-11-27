@@ -1,0 +1,20 @@
+fire_id,splits,number_of_splits,number_of_frames
+r-8997,"test, train, valid",3,203
+r-8942,"test, train, valid",3,199
+r-4165,"test, train, valid",3,187
+r-5512,"test, train, valid",3,175
+r-5524,"test, train, valid",3,175
+r-5832,"test, train, valid",3,159
+r-9104,"test, train, valid",3,159
+r-5540,"test, train, valid",3,145
+r-6050,"test, train, valid",3,145
+r-8546,"test, train, valid",3,145
+r-4505,"test, train, valid",3,131
+r-5443,"test, train, valid",3,120
+r-2766,"test, train, valid",3,117
+r-3194,"test, train, valid",3,87
+r-8772,"test, train, valid",3,87
+r-5276,"test, train, valid",3,84
+r-2907,"test, train, valid",3,73
+r-8524,"test, train, valid",3,73
+r-5684,"test, train, valid",3,59

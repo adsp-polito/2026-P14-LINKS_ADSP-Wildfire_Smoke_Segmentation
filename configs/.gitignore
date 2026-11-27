@@ -1,20 +1,42 @@
-# Local datasets
-datasets/
-sample_data/
+# Datasets and archives
+downloads/
+goes16_dataset/
 data/
-coords/
-subsample.pkl
-*.rar
+datasets/
+train/
+train_masks/
+valid/
+valid_masks/
+test/
+test_masks/
 *.zip
+*.rar
+*.7z
 
-# Model outputs
-checkpoints/*.pth
-checkpoints/*.pt
-checkpoints/*.ckpt
+# Model checkpoints and weights
+checkpoints/
+*.pth
+*.pt
+*.ckpt
+*.safetensors
 
-# Secrets
+# Credentials and local configuration
 .env
 kaggle.json
+secrets/
+*.key
+
+# Python
+__pycache__/
+*.py[cod]
 
 # Jupyter
 .ipynb_checkpoints/
+
+# Local tools and editors
+.vscode/
+.idea/
+
+# Operating system
+.DS_Store
+Thumbs.db

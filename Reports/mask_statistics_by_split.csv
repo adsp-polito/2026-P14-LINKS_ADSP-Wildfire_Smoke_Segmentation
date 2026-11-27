@@ -1,0 +1,4 @@
+split,number_of_masks,empty_masks,total_smoke_pixels,total_pixels,mean_smoke_percentage,median_smoke_percentage,minimum_smoke_percentage,maximum_smoke_percentage,overall_smoke_percentage,empty_mask_percentage
+test,123,0,66068,1230000,5.371382113821138,3.64,0.13999999999999999,26.700000000000003,5.371382113821138,0.0
+train,2193,0,1125372,21930000,5.131655266757866,3.34,0.06999999999999999,33.26,5.131655266757866,0.0
+valid,207,0,108447,2070000,5.238985507246377,3.16,0.22,33.26,5.238985507246377,0.0
